@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!README.md
+!settings.sublime-project
+
+!*.sublime-settings
+!*.sublime-keymap
+!*.sublime-build
