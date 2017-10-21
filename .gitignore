@@ -6,4 +6,5 @@
 
 !*.sublime-settings
 !*.sublime-keymap
+!*.sublime-mousemap
 !*.sublime-build
